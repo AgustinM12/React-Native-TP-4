@@ -1,4 +1,3 @@
-import { useFetch } from "../hooks/useFetch"
 import { useState } from "react";
 
 export const ListComponent = () => {
